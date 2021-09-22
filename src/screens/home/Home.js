@@ -65,15 +65,15 @@ const theme = createTheme({
           <MenuItem value="">
             <em>None</em>
           </MenuItem>
-          <MenuItem value={10}>Ten</MenuItem>
-          <MenuItem value={20}>Twenty</MenuItem>
-          <MenuItem value={30}>Thirty</MenuItem>
-          <MenuItem value={10}>Ten</MenuItem>
-          <MenuItem value={20}>Twenty</MenuItem>
-          <MenuItem value={30}>Thirty</MenuItem>
-          <MenuItem value={10}>Ten</MenuItem>
-          <MenuItem value={20}>Twenty</MenuItem>
-          <MenuItem value={30}>Thirty</MenuItem>
+          <MenuItem value={10}>Drama</MenuItem>
+          <MenuItem value={20}>Romance</MenuItem>
+          <MenuItem value={30}>Horror</MenuItem>
+          <MenuItem value={40}>Thriller</MenuItem>
+          <MenuItem value={50}>Action</MenuItem>
+          <MenuItem value={60}>Comedy</MenuItem>
+          <MenuItem value={70}>Social</MenuItem>
+          <MenuItem value={80}>Political</MenuItem>
+          <MenuItem value={90}>Suspense</MenuItem>
         </Select>
       </FormControl>
       </Typography>
@@ -88,15 +88,15 @@ const theme = createTheme({
           <MenuItem value="">
             <em>None</em>
           </MenuItem>
-          <MenuItem value={10}>Ten</MenuItem>
-          <MenuItem value={20}>Twenty</MenuItem>
-          <MenuItem value={30}>Thirty</MenuItem>
-          <MenuItem value={10}>Ten</MenuItem>
-          <MenuItem value={20}>Twenty</MenuItem>
-          <MenuItem value={30}>Thirty</MenuItem>
-          <MenuItem value={10}>Ten</MenuItem>
-          <MenuItem value={20}>Twenty</MenuItem>
-          <MenuItem value={30}>Thirty</MenuItem>
+          <MenuItem value={10}>Ajay Devgan</MenuItem>
+          <MenuItem value={20}>Manisha</MenuItem>
+          <MenuItem value={30}>Subham</MenuItem>
+          <MenuItem value={40}>Shah Rukh</MenuItem>
+          <MenuItem value={50}>Akshay</MenuItem>
+          <MenuItem value={60}>Salman</MenuItem>
+          <MenuItem value={70}>Katrina</MenuItem>
+          <MenuItem value={80}>Shweta</MenuItem>
+          <MenuItem value={90}>Akashara</MenuItem>
         </Select>
       </FormControl>
       </Typography>
